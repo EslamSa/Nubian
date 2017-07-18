@@ -3,4 +3,4 @@ It's an special application for nubians which displays the current and upcoming 
 
 # Prerequisites
       Java
-      Android (Mobile Development)
+      Mobile Development (Android)
